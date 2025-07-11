@@ -33,8 +33,6 @@
   </a> &nbsp;&nbsp;
 
   
-  <a href="https://www.instagram.com/barisyzmn7/" target="_blank">
-    <img align="center" alt="instagram| Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+
   
 <p> 
